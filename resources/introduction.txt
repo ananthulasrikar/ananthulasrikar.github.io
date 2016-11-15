@@ -1,10 +1,10 @@
-	Srikar is an alumni of our college, passed out in 2012 from IT department. He is working as Project Engineer in Wipro Technologies, Hyderabad and most of his time goes in participating competitions, volunteering and contributing to Mozilla. He started volunteering and contributing to Mozilla from his final year B.Tech. He started Mozilla Club Hyderabad in order to get likeminded people mingled under single roof and start contributing to open source projects. For his efforts he was selected as Mozilla Representative.
+Srikar is an alumni of our college, passed out in 2012 from IT department. He is working as Project Engineer in Wipro Technologies, Hyderabad and most of his time goes in participating competitions, volunteering and contributing to Mozilla. He started volunteering and contributing to Mozilla from his final year B.Tech. He started Mozilla Club Hyderabad in order to get likeminded people mingled under single roof and start contributing to open source projects. For his efforts he was selected as Mozilla Representative.
 He served as Microsoft Student Partner (MSP) in B.Tech 2nd year during which he evangelized Microsoft Products in campuses
 His certifications includes
-1.       Microsoft Certified Professional(MCP)
-2.       Microsoft Specialist (MS)
-3.       Microsoft Certified Solution Developer (MSCD)
-4.       Microsoft Certified Trainer(MCT), IBM DB2 Database Certified.
+1.Microsoft Certified Professional(MCP)
+2.Microsoft Specialist (MS)
+3.Microsoft Certified Solution Developer (MSCD)
+4.Microsoft Certified Trainer(MCT), IBM DB2 Database Certified.
 He delivered talks about Mozilla in Bhoj Reddy, Gokaraju Ranga Raju,Aurora and a few other colleges. He was invited to attend Mozilla Summit 2013 in Santa Clara, United States of America (USA). His name was inscribed on Mozilla’s monument in San Francisco. His name was added in mozilla.org/credits.He is travelling to Brussels,Capital of Belgium in next week to deliver talk at Free and Open source Software Developers' European Meeting (FOSDEM 2014).
 
 From <https://mail.google.com/mail/u/0/?shva=1#inbox/1439fc689ba34ab5> 
