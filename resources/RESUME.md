@@ -55,3 +55,6 @@ requirement, configuration, testing and deployment.
 * Delivered talks on Open Source, Mozilla projects.
 * Organizing meetups for increasing awareness & participation on open source projects.
 
+## Education
+B.Tech (IT) in (Sreenidhi Institute Of Science & Technology (SNIST)) [http://sreenidhi.edu.in]
+Affiliated to (Jawaharlal Nehru Technological University)[http://jntu.ac.in]
