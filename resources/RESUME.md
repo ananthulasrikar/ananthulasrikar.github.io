@@ -5,7 +5,7 @@
 > 4.4 years of administration experience on Linux in which 2 year include experience in Bigdata & Hadoop eco system, cloud computing platforms like Amazon Web Services (AWS) & Microsoft Azure.
 * Experience in implementation of SDLC from project design phase, mapping customer 
 requirement, configuration, testing and deployment.
-*	Excellent understanding of customer empathy and solve problems using design thinking.
+* Excellent understanding of customer empathy and solve problems using design thinking.
 * Experienced in mentoring, training, planning & execution of projects.
 * Excellent in understanding of Open Source projects, latest technology trends to suggest/implement latest methodologies for customers to be productive.
 * Extensive experience in gathering and analyzing business requirements for conceptual design and coordination with teams and implementation of the same.
@@ -35,18 +35,18 @@ requirement, configuration, testing and deployment.
 
 #### Roles & Responsibilities
 * Responsible for installing, monitoring, & maintaining of HDFS, Yarn, Pig, Hive, Spark, Hbase, Ambari, Zookeeper, Flume etc.,
-*	Well versed in installation, upgrading, managing the infrastructure and monitoring using Elastic search, Logstash, Kibana stack.
-*	Deployed the Hadoop cluster in AWS for development purpose as per the requirements from client.
-*	Involved in nodes, clusters management using configuration tools like puppet.
-*	Support & monitor running map reduce programs in the cluster.
-*	Manage the data coming from different sources.
-*	Capable of processing large data sets which includes structured, semi-structured, unstructured data. Generating reports as per requirement.
-*	Worked on conversion of physical machine to virtual machines using VMware tools, virtual box including migration of scripts, tools, startup services.
-*	Provisioning of virtual machines, Bigdata environment & migrating existing/on premise applications to Microsoft azure & AWS.
-*	Indulged in planning, delegation and execution of major, minor demands in coordination with onsite/offshore teams by doing technical feasibility study, gathering requirements by consulting clients.
-*	Followed ITIL process with the needs of business.
-*	Giving KT for newly joined resources. chaired standup, scrum, sprint meetings.
-*	Responsible for strategic partnerships with some startups & Wipro Ventures.
+* Well versed in installation, upgrading, managing the infrastructure and monitoring using Elastic search, Logstash, Kibana stack.
+* Deployed the Hadoop cluster in AWS for development purpose as per the requirements from client.
+* Involved in nodes, clusters management using configuration tools like puppet.
+* Support & monitor running map reduce programs in the cluster.
+* Manage the data coming from different sources.
+* Capable of processing large data sets which includes structured, semi-structured, unstructured data. Generating reports as per requirement.
+* Worked on conversion of physical machine to virtual machines using VMware tools, virtual box including migration of scripts, tools, startup services.
+* Provisioning of virtual machines, Bigdata environment & migrating existing/on premise applications to Microsoft azure & AWS.
+* Indulged in planning, delegation and execution of major, minor demands in coordination with onsite/offshore teams by doing technical feasibility study, gathering requirements by consulting clients.
+* Followed ITIL process with the needs of business.
+* Giving KT for newly joined resources. chaired standup, scrum, sprint meetings.
+* Responsible for strategic partnerships with some startups & Wipro Ventures.
 * Writing MapReduce programs in python
 
 ### Mozilla
