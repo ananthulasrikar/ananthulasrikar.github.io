@@ -28,3 +28,30 @@ requirement, configuration, testing and deployment.
 * Understanding & implementing Trust Advisor practices in AWS to secure, optimize, perform & find reduce fault tolerance. Procured reserved instances instead of on demand instances by analyzing historical data which reduced the AWS cost by 30 %
 * Implemented 12 factor app model for SAAS app internally.
 * Responsible for managing the AWS Elastic Map Reduce Hadoop cluster internally for analyzing/processing of the logs for understanding the customer usage patterns to take further decisions.
+
+### Wipro Technologies
+    Software Engineer         -       June 2012 - July 2016
+> Development, support, maintenance for R & D division of a Finnish multinational communications and IT company, largest mobile phone vendor of the world.
+
+#### Roles & Responsibilities
+* Responsible for installing, monitoring, & maintaining of HDFS, Yarn, Pig, Hive, Spark, Hbase, Ambari, Zookeeper, Flume etc.,
+*	Well versed in installation, upgrading, managing the infrastructure and monitoring using Elastic search, Logstash, Kibana stack.
+*	Deployed the Hadoop cluster in AWS for development purpose as per the requirements from client.
+*	Involved in nodes, clusters management using configuration tools like puppet.
+*	Support & monitor running map reduce programs in the cluster.
+*	Manage the data coming from different sources.
+*	Capable of processing large data sets which includes structured, semi-structured, unstructured data. Generating reports as per requirement.
+*	Worked on conversion of physical machine to virtual machines using VMware tools, virtual box including migration of scripts, tools, startup services.
+*	Provisioning of virtual machines, Bigdata environment & migrating existing/on premise applications to Microsoft azure & AWS.
+*	Indulged in planning, delegation and execution of major, minor demands in coordination with onsite/offshore teams by doing technical feasibility study, gathering requirements by consulting clients.
+*	Followed ITIL process with the needs of business.
+*	Giving KT for newly joined resources. chaired standup, scrum, sprint meetings.
+*	Responsible for strategic partnerships with some startups & Wipro Ventures.
+* Writing MapReduce programs in python
+
+### Mozilla
+    Mozilla Representative - Volunteer        -        April 2011 - Nov 2014
+* Founder of Mozilla Hyderabad Community.
+* Delivered talks on Open Source, Mozilla projects.
+* Organizing meetups for increasing awareness & participation on open source projects.
+
