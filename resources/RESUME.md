@@ -1,9 +1,9 @@
 # Srikar Ananthula
 
 ### Summary
-  
+
 > 4.4 years of administration experience on Linux in which 2 year include experience in Bigdata & Hadoop eco system, cloud computing platforms like Amazon Web Services (AWS) & Microsoft Azure.
-* Experience in implementation of SDLC from project design phase, mapping customer 
+* Experience in implementation of SDLC from project design phase, mapping customer
 requirement, configuration, testing and deployment.
 * Excellent understanding of customer empathy and solve problems using design thinking.
 * Experienced in mentoring, training, planning & execution of projects.
@@ -21,7 +21,7 @@ requirement, configuration, testing and deployment.
 * Deployed Jfrog server to store artifacts, automate integrations with Jenkins, Docker registry, npm, other packages which reduced the network traffic, improved build time by 30%.
 * Designed dashboards in Kibana for monitoring the errors in various environments, wrote log parsers, updating and managing various plugins in ELK as required.
 * Automated builds using CI with Jenkins, write custom scripts to automate & build using mvn, store artifacts in AWS S3 buckets.
-* Proposed solution to use different cloud services using Hashi Corp tools like terra form to deploy production infrastructure to Azure & AWS, vagrant to create portable environments. 
+* Proposed solution to use different cloud services using Hashi Corp tools like terra form to deploy production infrastructure to Azure & AWS, vagrant to create portable environments.
 * Proposed for migrating existing services to Docker & Amazon EC2 container services.
 * Using git & GitHub to manage whole Infrastructure as code.
 * Using configuration management tools like puppet to enforce the desired state in all servers.
@@ -30,7 +30,7 @@ requirement, configuration, testing and deployment.
 * Responsible for managing the AWS Elastic Map Reduce Hadoop cluster internally for analyzing/processing of the logs for understanding the customer usage patterns to take further decisions.
 
 ### Wipro Technologies
-    Software Engineer         -       June 2012 - July 2016
+Software Engineer         -       June 2012 - July 2016
 > Development, support, maintenance for R & D division of a Finnish multinational communications and IT company, largest mobile phone vendor of the world.
 
 #### Roles & Responsibilities
@@ -50,11 +50,11 @@ requirement, configuration, testing and deployment.
 * Writing MapReduce programs in python
 
 ### Mozilla
-    Mozilla Representative - Volunteer        -        April 2011 - Nov 2014
+Mozilla Representative - Volunteer        -        April 2011 - Nov 2014
 * Founder of Mozilla Hyderabad Community.
 * Delivered talks on Open Source, Mozilla projects.
 * Organizing meetups for increasing awareness & participation on open source projects.
 
 ## Education
-B.Tech (IT) in (Sreenidhi Institute Of Science & Technology (SNIST)) [http://sreenidhi.edu.in]
-Affiliated to (Jawaharlal Nehru Technological University)[http://jntu.ac.in]
+B.Tech (IT) in [Sreenidhi Institute Of Science & Technology (SNIST)](http://sreenidhi.edu.in)
+Affiliated to [Jawaharlal Nehru Technological University](http://jntu.ac.in)
