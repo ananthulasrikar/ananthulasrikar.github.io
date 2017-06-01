@@ -7,10 +7,10 @@ layout: post
 guid: http://ananthulasrikar.wordpress.com/2014/03/02/10th-mozcafe-meetup-23rd-feb-2014-4-pm-6pm-ist-barista-hyderabad/
 permalink: /10th-mozcafe-meetup-23rd-feb-2014-4-pm-6pm-ist-barista-hyderabad/
 blogger_7381be716554fdd16f34557f208c2492_permalink:
-  - 2265887473157204164
-  - 2265887473157204164
-  - 2265887473157204164
-  - 2265887473157204164
+  - "2265887473157204164"
+  - "2265887473157204164"
+  - "2265887473157204164"
+  - "2265887473157204164"
 blogger_blog:
   - www.mozillaclubhyd.com
   - www.mozillaclubhyd.com

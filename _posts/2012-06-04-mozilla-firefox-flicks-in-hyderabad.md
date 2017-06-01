@@ -7,10 +7,10 @@ layout: post
 guid: http://ananthulasrikar.wordpress.com/?p=44
 permalink: /mozilla-firefox-flicks-in-hyderabad/
 switch_like_status:
-  - 1
-  - 1
-  - 1
-  - 1
+  - "1"
+  - "1"
+  - "1"
+  - "1"
 categories:
   - Mozilla
 tags:

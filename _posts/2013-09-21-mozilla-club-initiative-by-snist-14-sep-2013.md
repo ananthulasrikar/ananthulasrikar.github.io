@@ -7,10 +7,10 @@ layout: post
 guid: http://ananthulasrikar.wordpress.com/2013/09/21/mozilla-club-initiative-by-snist-14-sep-2013/
 permalink: /mozilla-club-initiative-by-snist-14-sep-2013/
 blogger_7381be716554fdd16f34557f208c2492_permalink:
-  - 2709190509713474289
-  - 2709190509713474289
-  - 2709190509713474289
-  - 2709190509713474289
+  - "2709190509713474289"
+  - "2709190509713474289"
+  - "2709190509713474289"
+  - "2709190509713474289"
 blogger_author:
   - Santosh Viswanatham
   - Santosh Viswanatham
@@ -35,32 +35,35 @@ categories:
   </div>
   
   <p>
+  </p>
+  
+  <div>
+  </div>
+  
+  <div>
+    <u><b></b></u><u><b>Event Details:</b></u><br /><u><b><br /></b></u>           The Event was all about Intiating Firefox Club in <b>Sreenidhi Institute of Science and Technology</b>,Hyderabad.</p> 
+    
+    <p>
+      Reps Event Page : https://reps.mozilla.org/e/mozilla-club-initiative-snist/
+    </p>
+    
+    <p>
+      <b><u>Who Organised?:</u></b>
+    </p>
+    
+    <div>
+                <a href="https://plus.google.com/106925425476368523075/posts" target="_blank">Santosh Viswanatham</a>,Firefox Student Ambassador.
+    </div>
+    
     <div>
     </div>
     
     <div>
-      <u><b></b></u><u><b>Event Details:</b></u><br /><u><b><br /></b></u>           The Event was all about Intiating Firefox Club in <b>Sreenidhi Institute of Science and Technology</b>,Hyderabad.</p> 
-      
-      <p>
-        Reps Event Page : https://reps.mozilla.org/e/mozilla-club-initiative-snist/
-      </p>
-      
-      <p>
-        <b><u>Who Organised?:</u></b> 
-        
-        <div>
-                    <a href="https://plus.google.com/106925425476368523075/posts" target="_blank">Santosh Viswanatham</a>,Firefox Student Ambassador.
-        </div>
-        
-        <div>
-        </div>
-        
-        <div>
-                    Mozillians Attended: <a href="https://reps.mozilla.org/u/ananthulasrikar/" target="_blank">Srikar Ananthula</a>, <a href="https://plus.google.com/110391111976565849605/posts" target="_blank">RaghuRam</a>
-        </div>
-        
-        <div>
-        </div>
-        
-        <p>
-          Regards,<br />Santosh.<br />http://mozillaclubhyd.blogspot.in/p/about-us.html</div> </div>
+                Mozillians Attended: <a href="https://reps.mozilla.org/u/ananthulasrikar/" target="_blank">Srikar Ananthula</a>, <a href="https://plus.google.com/110391111976565849605/posts" target="_blank">RaghuRam</a>
+    </div>
+    
+    <div>
+    </div>
+    
+    <p>
+      Regards,<br />Santosh.<br />http://mozillaclubhyd.blogspot.in/p/about-us.html</div> </div>

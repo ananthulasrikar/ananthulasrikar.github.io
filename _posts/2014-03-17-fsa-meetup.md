@@ -25,8 +25,8 @@ publicize_tumblr_url:
   - http://ananthulasrikar.tumblr.com.tumblr.com/post/79836778195
   - http://ananthulasrikar.tumblr.com.tumblr.com/post/79836778195
 publicize_path_id:
-  - 
-  - 
+  - ""
+  - ""
 categories:
   - FSA Clubs
 tags:

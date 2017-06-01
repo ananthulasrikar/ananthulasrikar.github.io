@@ -17,14 +17,16 @@ blogger_author:
   - Srikar Ananthula
   - Srikar Ananthula
 blogger_7381be716554fdd16f34557f208c2492_permalink:
-  - 4580983862919544158
-  - 4580983862919544158
-  - 4580983862919544158
-  - 4580983862919544158
+  - "4580983862919544158"
+  - "4580983862919544158"
+  - "4580983862919544158"
+  - "4580983862919544158"
 categories:
   - "MozCafe MeetUp's"
 ---
 <div dir="ltr" style="text-align:left;">
+  </p> 
+  
   <div style="font-family:Georgia, 'Palatino Linotype', 'Book Antiqua', 'URW Palladio L', Baskerville, Meiryo, 'Hiragino Mincho Pro', 'MS PMincho', serif;font-size:15px;line-height:22.5px;margin-bottom:6px;margin-top:6px;padding:0;">
     Helloo ,
   </div>
@@ -80,6 +82,10 @@ categories:
     </div>
     
     <p>
-      <div class="separator" style="clear:both;text-align:center;">
-        <a href="http://ananthulasrikar.files.wordpress.com/2012/06/wp_0022801.jpg" style="margin-left:1em;margin-right:1em;"><img border="0" height="240" src="http://ananthulasrikar.files.wordpress.com/2012/06/wp_0022801.jpg?w=300" width="320" /></a>
-      </div></div> </div>
+    </p>
+    
+    <div class="separator" style="clear:both;text-align:center;">
+      <a href="http://ananthulasrikar.files.wordpress.com/2012/06/wp_0022801.jpg" style="margin-left:1em;margin-right:1em;"><img border="0" height="240" src="http://ananthulasrikar.files.wordpress.com/2012/06/wp_0022801.jpg?w=300" width="320" /></a>
+    </div>
+  </div>
+</div>

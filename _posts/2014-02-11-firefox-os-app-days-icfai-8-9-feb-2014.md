@@ -7,10 +7,10 @@ layout: post
 guid: http://ananthulasrikar.wordpress.com/2014/02/11/firefox-os-app-days-icfai-8-9-feb-2014/
 permalink: /firefox-os-app-days-icfai-8-9-feb-2014/
 blogger_7381be716554fdd16f34557f208c2492_permalink:
-  - 3176823588938306412
-  - 3176823588938306412
-  - 3176823588938306412
-  - 3176823588938306412
+  - "3176823588938306412"
+  - "3176823588938306412"
+  - "3176823588938306412"
+  - "3176823588938306412"
 blogger_author:
   - Srikar Ananthula
   - Srikar Ananthula

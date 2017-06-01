@@ -12,10 +12,10 @@ blogger_blog:
   - www.mozillaclubhyd.com
   - www.mozillaclubhyd.com
 blogger_7381be716554fdd16f34557f208c2492_permalink:
-  - 1346096419229239464
-  - 1346096419229239464
-  - 1346096419229239464
-  - 1346096419229239464
+  - "1346096419229239464"
+  - "1346096419229239464"
+  - "1346096419229239464"
+  - "1346096419229239464"
 blogger_author:
   - Srikar Ananthula
   - Srikar Ananthula

@@ -7,10 +7,10 @@ layout: post
 guid: http://ananthulasrikar.wordpress.com/2013/03/31/mozmantra-2013-nit-warangal-30th-march2013/
 permalink: /mozmantra-2013-nit-warangal-30th-march2013/
 blogger_7381be716554fdd16f34557f208c2492_permalink:
-  - 5008967811317163045
-  - 5008967811317163045
-  - 5008967811317163045
-  - 5008967811317163045
+  - "5008967811317163045"
+  - "5008967811317163045"
+  - "5008967811317163045"
+  - "5008967811317163045"
 blogger_author:
   - Srikar Ananthula
   - Srikar Ananthula
@@ -67,32 +67,34 @@ categories:
   </p>
   
   <p>
-    &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;  LUNCH &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- 
-    
-    <ol style="text-align:left;">
-      <li>
-         Web Development by <a href="http://www.facebook.com/sudheesh001" target="_blank">SudheeshSinganamalla</a>
-      </li>
-      <li>
-        Localization by Abhishek
-      </li>
-      <li>
-        Firefox Flicks by <a class="g-profile" href="http://plus.google.com/110303602207827081312" target="_blank">+MERAJ IMRAN</a> 
-      </li>
-      <li>
-         Discussion regarding next activities with <a class="g-profile" href="http://plus.google.com/100519495782852002091" target="_blank">+sai kiran</a> (2nd Mozilla Rep in our state :P)
-      </li>
-    </ol>
+    &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;  LUNCH &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-
+  </p>
+  
+  <ol style="text-align:left;">
+    <li>
+       Web Development by <a href="http://www.facebook.com/sudheesh001" target="_blank">SudheeshSinganamalla</a>
+    </li>
+    <li>
+      Localization by Abhishek
+    </li>
+    <li>
+      Firefox Flicks by <a class="g-profile" href="http://plus.google.com/110303602207827081312" target="_blank">+MERAJ IMRAN</a> 
+    </li>
+    <li>
+       Discussion regarding next activities with <a class="g-profile" href="http://plus.google.com/100519495782852002091" target="_blank">+sai kiran</a> (2nd Mozilla Rep in our state :P)
+    </li>
+  </ol>
+  
+  <p>
+     Event ended with great feedback, so very very happy to be a part of Mozilla Community.
+  </p>
+  
+  <p>
+    Special thanks to one and all who made it very successful. 🙂 <span style="font-size:x-small;"><br /></span>
+  </p>
+  
+  <div style="font-family:inherit;text-align:justify;">
+    <span style="font-size:x-small;"></span><span style="font-size:x-small;"><br /></span><br /><span style="font-size:x-small;"><img border="0" src="http://ananthulasrikar.files.wordpress.com/2013/03/793a9-8609334421_d985b00537.jpg" /> </span></p> 
     
     <p>
-       Event ended with great feedback, so very very happy to be a part of Mozilla Community.
-    </p>
-    
-    <p>
-      Special thanks to one and all who made it very successful. 🙂 <span style="font-size:x-small;"><br /></span> 
-      
-      <div style="font-family:inherit;text-align:justify;">
-        <span style="font-size:x-small;"></span><span style="font-size:x-small;"><br /></span><br /><span style="font-size:x-small;"><img border="0" src="http://ananthulasrikar.files.wordpress.com/2013/03/793a9-8609334421_d985b00537.jpg" /> </span></p> 
-        
-        <p>
-          <span style="font-size:x-small;">Flicke<span style="font-size:x-small;">r :<span style="font-size:x-small;"> </span></span><a href="http://www.flickr.com/photos/82525714@N05/sets/72157633137866607/" target="_blank">http://www.flickr.com/photos/82525714@N05/sets/72157633137866607/</a> </span><br /><span style="font-size:x-small;"><br /></span><span style="font-size:x-small;"><br /></span></div> </div>
+      <span style="font-size:x-small;">Flicke<span style="font-size:x-small;">r :<span style="font-size:x-small;"> </span></span><a href="http://www.flickr.com/photos/82525714@N05/sets/72157633137866607/" target="_blank">http://www.flickr.com/photos/82525714@N05/sets/72157633137866607/</a> </span><br /><span style="font-size:x-small;"><br /></span><span style="font-size:x-small;"><br /></span></div> </div>

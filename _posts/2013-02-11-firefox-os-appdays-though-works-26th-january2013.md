@@ -17,14 +17,16 @@ blogger_author:
   - Srikar Ananthula
   - Srikar Ananthula
 blogger_7381be716554fdd16f34557f208c2492_permalink:
-  - 2286079413487984163
-  - 2286079413487984163
-  - 2286079413487984163
-  - 2286079413487984163
+  - "2286079413487984163"
+  - "2286079413487984163"
+  - "2286079413487984163"
+  - "2286079413487984163"
 categories:
   - FirefoxOSAppDaysIN
 ---
 <div dir="ltr" style="text-align:left;">
+  </p> 
+  
   <div style="background-color:white;color:#222222;font-family:arial, sans-serif;font-size:13px;">
     Journey of Happiness&#8230;!!!
   </div>

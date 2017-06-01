@@ -17,14 +17,16 @@ blogger_author:
   - Srikar Ananthula
   - Srikar Ananthula
 blogger_7381be716554fdd16f34557f208c2492_permalink:
-  - 817021020402522963
-  - 817021020402522963
-  - 817021020402522963
-  - 817021020402522963
+  - "817021020402522963"
+  - "817021020402522963"
+  - "817021020402522963"
+  - "817021020402522963"
 categories:
   - Firefox Club @ VBIT
 ---
 <div dir="ltr" style="text-align:left;">
+  </p> 
+  
   <div style="font-family:Georgia, 'Palatino Linotype', 'Book Antiqua', 'URW Palladio L', Baskerville, Meiryo, 'Hiragino Mincho Pro', 'MS PMincho', serif;font-size:15px;line-height:22.5px;margin-bottom:6px;margin-top:6px;padding:0;">
     Hi all,
   </div>
@@ -108,8 +110,11 @@ categories:
   </div>
   
   <p>
-    <div style="font-family:Georgia, 'Palatino Linotype', 'Book Antiqua', 'URW Palladio L', Baskerville, Meiryo, 'Hiragino Mincho Pro', 'MS PMincho', serif;font-size:15px;line-height:22.5px;margin-bottom:6px;margin-top:6px;padding:0;">
-    </div>
-    
-    <div style="font-family:Georgia, 'Palatino Linotype', 'Book Antiqua', 'URW Palladio L', Baskerville, Meiryo, 'Hiragino Mincho Pro', 'MS PMincho', serif;font-size:15px;line-height:22.5px;margin-bottom:6px;margin-top:6px;padding:0;">
-    </div></div>
+  </p>
+  
+  <div style="font-family:Georgia, 'Palatino Linotype', 'Book Antiqua', 'URW Palladio L', Baskerville, Meiryo, 'Hiragino Mincho Pro', 'MS PMincho', serif;font-size:15px;line-height:22.5px;margin-bottom:6px;margin-top:6px;padding:0;">
+  </div>
+  
+  <div style="font-family:Georgia, 'Palatino Linotype', 'Book Antiqua', 'URW Palladio L', Baskerville, Meiryo, 'Hiragino Mincho Pro', 'MS PMincho', serif;font-size:15px;line-height:22.5px;margin-bottom:6px;margin-top:6px;padding:0;">
+  </div>
+</div>

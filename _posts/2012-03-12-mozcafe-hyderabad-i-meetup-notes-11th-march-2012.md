@@ -17,15 +17,15 @@ blogger_author:
   - Srikar Ananthula
   - Srikar Ananthula
 blogger_7381be716554fdd16f34557f208c2492_permalink:
-  - 1079006952044759628
-  - 1079006952044759628
-  - 1079006952044759628
-  - 1079006952044759628
+  - "1079006952044759628"
+  - "1079006952044759628"
+  - "1079006952044759628"
+  - "1079006952044759628"
 categories:
   - "MozCafe MeetUp's"
 ---
 <div dir="ltr" style="text-align:left;">
-  Thrilled to share that, <a href="http://mozillaindia.org/event/mar/mozcafe-hyd">MozCafe</a>-HYD meetup was hosted on March 11, 2012. <span class="author-g-3j0ga5292wsejh3e">Thanks to </span><span class="author-g-3j0ga5292wsejh3e"><a href="http://agiliq.com/" target="_blank">Agiliq</a></span><span class="author-g-3j0ga5292wsejh3e"> for the support, by providing their office as the MozCafe-HYD venue! 🙂</span><br /><span class="author-g-3j0ga5292wsejh3e">It was a informal meet</span> with a gathering of 9 people. The meeting started with, attendees introducing to each other and what they work on. Some of the things discussed are: 
+  Thrilled to share that, <a href="http://mozillaindia.org/event/mar/mozcafe-hyd">MozCafe</a>-HYD meetup was hosted on March 11, 2012. <span class="author-g-3j0ga5292wsejh3e">Thanks to </span><span class="author-g-3j0ga5292wsejh3e"><a href="http://agiliq.com/" target="_blank">Agiliq</a></span><span class="author-g-3j0ga5292wsejh3e"> for the support, by providing their office as the MozCafe-HYD venue! 🙂</span><br /><span class="author-g-3j0ga5292wsejh3e">It was a informal meet</span> with a gathering of 9 people. The meeting started with, attendees introducing to each other and what they work on. Some of the things discussed are:</p> 
   
   <ul>
     <li>

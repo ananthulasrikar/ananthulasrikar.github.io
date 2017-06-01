@@ -7,8 +7,8 @@ layout: post
 guid: http://ananthulasrikar.wordpress.com/?p=468
 permalink: /mozilla-automation-training-days-21st-may-28th-may-4th-june-11th-june/
 geo_public:
-  - 0
-  - 0
+  - "0"
+  - "0"
 publicize_facebook_url:
   - https://facebook.com/10203957593163098
   - https://facebook.com/10203957593163098
@@ -28,8 +28,8 @@ publicize_tumblr_url:
   - http://ananthulasrikar.tumblr.com.tumblr.com/post/86177850848
   - http://ananthulasrikar.tumblr.com.tumblr.com/post/86177850848
 publicize_path_id:
-  - 
-  - 
+  - ""
+  - ""
 categories:
   - Uncategorized
 tags:
