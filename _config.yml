@@ -1,3 +1,8 @@
 url: http://srikar.io
 name: 'Srikar&#039;s World'
 description: Sharing my experiences :)
+
+title: Ananthulasrikar.GitHub.io
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
