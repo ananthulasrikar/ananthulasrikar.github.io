@@ -1,2 +1,2 @@
 # in docs website
-[index](index.md)
+[list](list.md)
