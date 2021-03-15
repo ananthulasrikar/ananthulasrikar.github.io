@@ -1,2 +1,2 @@
-# in docs website
-* [list](list.md)
+# Index
+* [financials](financials.md)
